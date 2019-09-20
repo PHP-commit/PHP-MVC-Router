@@ -5,7 +5,7 @@ class DataHandler
 {
 
     /**
-     * The connection for this data handler.
+     * The connection for data handler.
      */
     public $conn;
 
